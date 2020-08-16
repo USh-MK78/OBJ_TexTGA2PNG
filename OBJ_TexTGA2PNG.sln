@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBJ_TexTGA2PNG", "OBJ_TexTGA2PNG\OBJ_TexTGA2PNG.csproj", "{0670B4AF-DA44-4CDE-9742-671435745A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0670B4AF-DA44-4CDE-9742-671435745A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0670B4AF-DA44-4CDE-9742-671435745A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0670B4AF-DA44-4CDE-9742-671435745A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0670B4AF-DA44-4CDE-9742-671435745A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03E127A-6612-4FF7-A217-B1D8DD8DD498}
+	EndGlobalSection
+EndGlobal
